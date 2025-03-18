@@ -11,7 +11,7 @@ export default function About() {
             <div className="ebox1">
               <h1>High School</h1>
               <p>Chandigarh</p>
-              <p> 2011 - 2018</p>
+              <p> 2011 - 2018</p> 
             </div>
 
             <div className="ebox2">
