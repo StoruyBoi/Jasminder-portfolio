@@ -73,7 +73,7 @@ export default function About() {
           </div>
           <div className="Expericne_box1">
             <div className="ebox1">
-              <h1>KasWebtech Solutions Pvt. LtdSDDDD. </h1>
+              <h1>KasWebtech Solutions Pvt. Ltd. </h1>
               <p>Nov, 2023  - Nov 2024</p>
             </div>
             <div className="ebox2">
