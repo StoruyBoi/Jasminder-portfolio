@@ -62,17 +62,28 @@ export default function About() {
             <div className="ebox2">
               <div className="firstcirlcle"></div>
               <div className="firtsLine"></div>
-              {/* <div className="firstcirlcle"></div>
-<div className="firtsLine"></div>
-<div className="firstcirlcle"></div> */}
-
-              <p>Comming soon</p>
             </div>
             <div className="ebox3">
               <h1>Frontend developer Intern</h1>
               <p>
-                A fontend developer post to gives 4 <br /> projects to complete
+                A frontend developer post to gives 4 <br /> projects to complete
                 withn a month
+              </p>
+            </div>
+          </div>
+          <div className="Expericne_box1">
+            <div className="ebox1">
+              <h1>KasWebtech Solutions Pvt. Ltd.</h1>
+              <p>Nov, 2023  - Nov 2024</p>
+            </div>
+            <div className="ebox2">
+              <div className="firstcirlcle"></div>
+              <div className="firtsLine"></div>            
+            </div>
+            <div className="ebox3">
+              <h1>Associate Webdesinger</h1>
+              <p>
+                A frontend developer and Web desinger 
               </p>
             </div>
           </div>
